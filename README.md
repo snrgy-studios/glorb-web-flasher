@@ -10,11 +10,13 @@
 
 3. Connect the ESP32-board to the computer and connect to the port that pops up.
 
-4. Press "Install GLORB" and wait for the firmware to upload
+4. Press "Install GLORB" and wait for the firmware to upload.
 
-5. Press next and enter WiFi credentials
+5. Press next and enter your WiFi credentials.
+
+6. Press Visit Device and configure WLED.
 
 ### Troubleshooting
 
-* If there are port or connection issues, try reconnecting the board to the computer while at the same time bridging the BOOT connection on the board
+* If there are port or connection issues, try reconnecting the board to the computer while at the same time bridging the BOOT connection on the board.
 * If the menu for entering WiFi credentials doesn't show up after installation is complete, try reconnecting the board. 
