@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GLORB Firmware Flasher</title>
     <link rel="stylesheet" href="styles.css">
+    <title>GLORB Web Flasher</title>
 </head>
 <body>
     <!-- Import ESP Web Tools -->
@@ -12,15 +12,10 @@
       type="module"
       src="https://unpkg.com/esp-web-tools@10/dist/web/install-button.js?module"
     ></script>
-    <div id="banner">
-        <img src="Logo_Formats_Logo_1920x1080_blk.png" alt="Banner Image">
-    </div>
-    <h1>Firmware Flasher</h1>
-    <div class="flasher-container">
-        <!-- ESP Web Tools Install Button -->
-        <esp-web-install-button
-            manifest="manifest.json">
-        </esp-web-install-button>
-    </div>
+    <h1>GLORB Web Flasher</h1>
+    <!-- ESP Web Tools Install Button -->
+    <esp-web-install-button
+        manifest="manifest.json">
+    </esp-web-install-button>
 </body>
 </html>
