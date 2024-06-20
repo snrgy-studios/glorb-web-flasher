@@ -1,0 +1,6 @@
+/* Set the body's background color and text color */
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
