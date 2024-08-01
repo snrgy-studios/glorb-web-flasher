@@ -16,10 +16,6 @@
         {
           "path":"firmware/firmware.bin",
           "offset":65536
-        },
-        {
-          "path":"firmware/spiffs.bin",
-          "offset":4259840
         }
       ]
     }
